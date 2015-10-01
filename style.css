@@ -1,0 +1,11 @@
+body {
+	background-color: #EEF;
+}
+
+li {
+	display: block;
+	list-style-type: none;
+	background-color: #FFF;
+	border: 1px solid #DDE;
+	margin: 2px;
+}
